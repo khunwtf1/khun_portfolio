@@ -19,4 +19,7 @@ Responsibility
 - Design GUI for game using Adobe XD.
 - Design game structures such as scoring, matching pictures, difficulty levels.
 - Coding game code using Python (PyGame library) and Visual Studio Code (I used to use PyCharm before but had a few problems. So switched to VScode.)
+
+My Game Structure
+![](https://github.com/khunwtf1/matching-fun-game/blob/gh-pages/Game%20Structure.jpeg)
   
