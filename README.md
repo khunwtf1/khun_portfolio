@@ -10,6 +10,11 @@ I’m learning more about data science. I need to gain more experience in data s
 This is my portfoio. All of my past experiences will be transmitted through this portfolio. are you ready ?? Let's check it !!
 
 # [Project 1 : matching-fun-game python project using PyGame library](https://github.com/khunwtf1/matching-fun-game)
+
+Project Overview 
+
+My project of Python Progamming subject. Students are assigned to do any program that is written in Python. After meeting with friends in the group came to the conclusion that I would write a matching game. I used to use TKinter to make User Interface before but had a few problems. So switched to PyGame.
+
 Responsibility
 - Design GUI for game using Adobe XD.
 - Design game structures such as scoring, matching pictures, difficulty levels.
