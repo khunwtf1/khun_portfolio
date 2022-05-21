@@ -21,5 +21,22 @@ Responsibility
 - Coding game code using Python (PyGame library) and Visual Studio Code (I used to use PyCharm before but had a few problems. So switched to VScode.)
 
 My Game Structure
+
 ![](https://github.com/khunwtf1/matching-fun-game/blob/gh-pages/Game%20Structure.jpeg)
+
+# Game demo Image
+
+Main Menu
+
+![](https://github.com/khunwtf1/matching-fun-game/blob/gh-pages/main%20menu.jpg)
+
+Choose difficulty levels
+
+![](https://github.com/khunwtf1/matching-fun-game/blob/gh-pages/choose%20levels.jpg)
+
+in game
+
+![](https://github.com/khunwtf1/matching-fun-game/blob/gh-pages/game%20demo.jpg)
+
+
   
