@@ -22,21 +22,21 @@ Responsibility
 
 My Game Structure
 
-![](https://github.com/khunwtf1/matching-fun-game/blob/gh-pages/Game%20Structure.jpeg)
+![](/Game%20Structure.jpeg)
 
 # Game demo Image
 
 Main Menu
 
-![](https://github.com/khunwtf1/matching-fun-game/blob/gh-pages/main%20menu.jpg)
+![](/main%20menu.jpg)
 
 Choose difficulty levels
 
-![](https://github.com/khunwtf1/matching-fun-game/blob/gh-pages/choose%20levels.jpg)
+![](/choose%20levels.jpg)
 
 in game
 
-![](https://github.com/khunwtf1/matching-fun-game/blob/gh-pages/game%20demo.jpg)
+![](/game%20demo.jpg)
 
 
   
