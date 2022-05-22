@@ -22,13 +22,13 @@ Responsibility
 
 My Game Structure
 
-![](/Game%20Structure.jpeg)
+![Game Structure.jpeg](https://github.com/khunwtf1/my_portfolio/blob/gh-pages/Game%20Structure.jpeg)
 
 # Game demo Image
 
 Main Menu
 
-![](/main%20menu.jpg)
+![](https://github.com/khunwtf1/my_portfolio/blob/gh-pages/main%20menu.jpg)
 
 Choose difficulty levels
 
